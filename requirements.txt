@@ -1,0 +1,26 @@
+# livekit-agents
+# livekit-plugins-openai
+# livekit-plugins-silero
+# livekit-plugins-google
+# livekit-plugins-noise-cancellation
+# mem0ai
+# duckduckgo-search
+# langchain_community
+# requests
+# python-dotenv
+
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
+psutil
+pywin32; sys_platform == "win32"
+pyperclip
+Pillow
+pycaw; sys_platform == "win32"
